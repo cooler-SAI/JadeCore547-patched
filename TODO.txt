@@ -1,0 +1,108 @@
+﻿Mists of Pandaria Instance Scripts TODO:
+
+1) Mogu'shan Vaults:
+    - Need to rewrite instance script
+
+2) Heart of Fear:
+    - Need to rewrite instance script
+    - Need to rewrite Imperial Vizier Zor'lok
+    - Need to rewire Blade Lord Ta'yak
+    - Need to rewrite Garalon
+    - Need to rewrite Wind Lord Mel'jarak
+    - Need to add script for Amber-Shaper Un'sok
+    - Need to rewrite Grand Empress Shek'zeer
+
+3) Terrace of Endless Spring:
+    - Need to rewrite instance script
+    - Need to fix some achievements
+    - Need to fix Sha of Fear heroic mode
+
+4) Throne of Thunder:
+    - Need to rewrite instance script
+    - Need to rewrite Council of Elders
+    - Need to rewrite Tortos
+    - Need to rewrite Megaera
+    - Need to rewrite Durumu the Forgotten
+    - Need to rewrite Primordius
+    - Need to rewrite Dark Animus
+    - Need to add script for Iron Qon
+    - Need to add script for Twin Consorts
+    - Need to add script for Lei Shen the Thunder King
+    - Need to add script for Ra-den
+
+5) Siege of Orgrimmar:
+    - Need to rewrite Immerseus
+    - Need to rewrite Norushen
+    - Need to finish Galakras script
+    - Need to finish Iron Juggernaut script
+    - Need to finish Malkorok script
+    - Need to finish Spoils of Pandaria script
+    - Need to add script for Thok the Bloodthirsty
+    - Need to add script for Siegecrafter Blakcfuse
+    - Need to add script for Paragons of the Klaxxi 
+
+6) Mists of Pandaria dungeons:
+    - Need to rewrite all of them
+
+	
+Mists of Pandaria SmartAI Scripts TODO:
+
+Pandaria Zones:
+
+-- Dread Wastes
+-- Isle of Giants
+-- Isle of Thunder
+-- Krasarang Wilds
+-- Kun-Lai Summit
+-- The Jade Forest
+-- The Veiled Stair
+-- Timeless Isle
+-- Townlong Steppes
+-- Vale of Eternal Blossoms
+-- Valley of the Four Winds
+
+Pandaria Dungeons:
+
+-- Gate of the Setting Sun
+-- Mogu'shan Palace
+-- Scarlet Monastery
+-- Scholomance
+-- Shado-Pan Monastery
+-- Siege of Niuzao Temple
+-- Stormstout Brewery
+-- Temple of the Jade Serpent
+
+Pandaria Raids:
+
+-- Heart of Fear
+-- Mogu'shan Vaults
+-- Siege of Orgrimmar
+-- Terrace of Endless Spring
+-- Throne of Thunder
+
+The Maelstrom Zones:
+
+-- The Lost Isles
+-- The Wandering Isle
+
+Mists of Pandaria Start Zones Quests ( 1-5 lvl ) TODO:
+
+-- Dwarf
+-- Undead
+-- Night Elf
+-- Tauren
+-- Gnome
+-- Troll
+-- Draenei
+-- Worgen
+-- Goblin
+-- Pandaren
+
+Mists of Pandaria Misc TODO:
+
+-- Mmaps
+-- Character Boost 90 lvl
+-- BattlePet
+-- BattleShop
+-- Items: 109013, 112327, 112326
+-- Fix all DB Logs Errors
